@@ -1,0 +1,19 @@
+# Core data and math libraries
+pandas
+numpy
+
+# Natural Language Processing
+nltk
+scikit-learn
+transformers
+torch
+
+# Visualization (optional)
+matplotlib
+seaborn
+
+# App framework (for optional demo)
+gradio
+
+# Model persistence
+joblib
